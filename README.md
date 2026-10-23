@@ -78,13 +78,7 @@ and the **data memory**. Everything else is combinational.
 └── Makefile
 ```
 
-## Getting started
 
-### Prerequisites
-
-- [Icarus Verilog](https://steveicarus.github.io/iverilog/) (`brew install icarus-verilog` or `apt install iverilog`)
-- Python 3
-- Optional: [GTKWave](https://gtkwave.sourceforge.net/) for viewing waveforms
 
 ### Run the tests
 
